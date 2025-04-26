@@ -26,8 +26,10 @@ Este proyecto consiste en la creación de una página de artículo de periódico
 2. Abre el archivo index.html en tu navegador.
 
 ## 📸 Vista previa
-<img src="articuloPeriodico.png" alt="Vista previa del proyecto" width="600"/>
+<p align="center">
+  <img src="articuloPeriodico.png" alt="Vista previa del proyecto" width="600" />
+</p>
 
 
-##👤 Autor
+## 👤 Autor
 Mershar0
